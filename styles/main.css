@@ -1,0 +1,86 @@
+#elementor-panel-category-pro-elements {
+  /* pro elements */
+  display: none;
+}
+
+#elementor-panel-get-pro-elements {
+  /* go pro element at the end of the elements tab */
+  display: none;
+}
+
+#elementor-panel-elements-navigation div[data-tab="global"] {
+  /* global tab */
+  display: none;
+}
+
+#elementor-panel-global {
+  /* global tab content */
+  display: none;
+}
+
+.elementor-panel-menu-items .elementor-panel-menu-item.elementor-panel-menu-item-site-editor {
+  /* site editor button */
+  display: none;
+}
+
+#elementor-template-library-templates[data-template-source="remote"] .elementor-template-library-template.elementor-template-library-pro-template {
+  /* pro templates */
+  display: none;
+}
+
+a.elementor-plugins-gopro {
+  /* go pro link in plugins page */
+  display: none;
+}
+
+.elementor-context-menu-list__group-save {
+  /* right click menu*/
+  display: none;
+}
+
+.elementor-control-custom_logo_promotion {
+  /* fiverr ad in site-settings */
+  display: none;
+}
+
+.elementor-panel-menu-item.elementor-panel-menu-item-notes {
+  /* "notes" menu entry */
+  display: none !important;
+}
+
+
+div[data-collapse_id="section_custom_css_pro"],
+div[data-collapse_id="section_custom_css_pro"] + div,
+.elementor-control-custom_css_pro,
+.elementor-control-section_custom_css_pro {
+  /* custom css */
+  display: none;
+}
+
+.elementor-control-section_custom_attributes_pro {
+  /* attributes */
+  display: none;
+}
+
+
+.elementor-control-dynamic-switcher {
+  /* dynamic attributes */
+  display: none !important;
+}
+
+.e-ai-button {
+  display: none;
+}
+
+/* pro widgets */
+.elementor-panel-category .elementor-element-wrapper.elementor-element--promotion {
+  display: none;
+}
+
+#elementor-panel-get-pro-elements-sticky {
+  display: none;
+}
+
+#elementor-navigator__footer__promotion {
+  display: none;
+}
